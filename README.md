@@ -151,11 +151,11 @@ Displays a box-styled menu using Unicode border characters. Returns the user's c
 
 ## Disclaimer
 
-This script is intended for educational and personal use only. Unauthorized access to networks or devices you do not own is illegal and unethical. Use this script responsibly and only on devices you own or have explicit permission to access.
+Skrip ini ditujukan hanya untuk tujuan pendidikan dan penggunaan pribadi. Akses tanpa izin ke jaringan atau perangkat yang bukan milik Anda adalah ilegal dan tidak etis. Gunakan skrip ini secara bertanggung jawab dan hanya pada perangkat yang Anda miliki atau yang Anda miliki izin eksplisit untuk mengaksesnya.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 -----------------------------------------------------------------------------------------
-![Github Footer](https://github.com/shabir-mp/Kereta-Api-Indonesia-Booking-System/assets/133546000/c1833fe4-f470-494f-99e7-d583421625be)
+![Github Footer](https://github.com/shopeebjm/Kereta-Api-Indonesia-Booking-System/assets/133546000/c1833fe4-f470-494f-99e7-d583421625be)
