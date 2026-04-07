@@ -103,7 +103,7 @@ Membaca `.nmconnection` file Dari `/etc/NetworkManager/system-connections/`. Men
 
 #### macOS : `get_profiles_macos()` / `get_profile_details_macos()`
 
-Uses `networksetup -listpreferredwirelessnetworks en0` to list profiles and `security find-generic-password -wa <name>` to retrieve passwords from the system Keychain.
+Digunakan `networksetup -listpreferredwirelessnetworks en0` Untuk Menampilkan Daftar Profil Dan `security find-generic-password -wa <name>` Mengambil Kata Sandi Dari Keychain Sistem.
 
 ## Pemindai Terpadu
 
