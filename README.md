@@ -129,17 +129,17 @@ def filter_profiles(profiles, keyword=None, with_password_only=False):
 
 Filters the profile list by a case-insensitive name keyword and/or by password presence. Used by menu options `[2]` and `[3]`.
 
-### Export
+### Ekspor
 
 ```python
 def export_profiles(profiles, fmt):
 ```
 
-Exports the current profile view to a file. The filename is auto-generated with a timestamp, e.g. `fisard_wifi_export_20260315_143022.csv`. Supports three formats:
+Mengekspor Tampilan Saat Ini Kedalam Sebuah File,Nama File Di Buat Secara Otomatis Dengan Stempel Waktu,Misalnya `fisard_wifi_export_20260315_143022.csv`. Mendukung Tiga Format:
 
-- **CSV** — spreadsheet-compatible, one row per profile
-- **TXT** — human-readable, one block per profile
-- **JSON** — structured data, array of profile objects
+- **CSV** — Kompatibel Dengan spreadsheet, Satu Baris Per Profil
+- **TXT** — Mudah Dibaca Manusia,Satu Blok Per Profil
+- **JSON** — Data Terstruktur, array Objek Profil
 
 ### Menu Interaktif
 
