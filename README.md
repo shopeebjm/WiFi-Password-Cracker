@@ -45,20 +45,20 @@ WiFi Security & Router Diagnostics adalah skrip Python lintas platform yang meng
    ```
 2. Pastikan Anda Sudah Menginstall Python 3.x. Anda Dapat Mengunduhnya Dari [python.org](https://www.python.org/).
 
-## Usage
+## Penggunaan
 
-1. Open a terminal or command prompt.
-2. Navigate to the directory where `main.py` is located.
-3. Run the script:
+1. Buka Terminal Atau Command Prompt
+2. Arahkan Ke Deriktori Tempat File `main.py` Tersebut Berada.
+3. Jalankan scriptnya:
    ```sh
    python main.py
    ```
-   > **Linux/macOS:** If profiles are not found, run with elevated permissions:
+   > **Linux/macOS:** Jika Profile Tidak Ditemukan,Jalankan Dengan Hak Akses Administrator :
    > ```sh
    > sudo python main.py
    > ```
-4. Read and agree to the Terms and Conditions by typing `Y`.
-5. Use the interactive menu to navigate:
+4. Baca Dan Setujui Syarat Dan Ketentuan Dengan Mengetik `Y`.
+5. Gunakan Menu Interaktif Untuk Bernavigasi :
 
    | Option | Description |
    |--------|-------------|
