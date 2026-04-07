@@ -91,15 +91,15 @@ OS = platform.system()  # "Windows", "Linux", "Darwin"
 
 Mendeteksi sistem operasi saat ini dan mengarahkan semua fungsi pengambilan profil sesuai dengan sistem tersebut.
 
-### Platform-Specific Parsers
+## Parser Khusus Platform
 
 #### Windows : `get_profiles_windows()` / `get_profile_details_windows()`
 
-Uses `netsh wlan show profiles` to list all profiles and `netsh wlan show profile <name> key=clear` to retrieve password, authentication, cipher, and radio band for each profile.
+Digunakan `netsh wlan show profiles` Untuk Menampilkan Semua Profil Dan  `netsh wlan show profile <name> key=clear` Mengambil Kata Sandi, Otentikasi, Sandi, Dan Pita Frekuensi Radio Untuk Setiap Profil
 
 #### Linux : `get_profiles_linux()` / `get_profile_details_linux()`
 
-Reads `.nmconnection` files from `/etc/NetworkManager/system-connections/`. Extracts `psk` (password), `key-mgmt` (auth), `pairwise` (encryption), and `band` fields. Raises a `[Permission Denied]` note if root access is required.
+Membaca `.nmconnection` file Dari `/etc/NetworkManager/system-connections/`. Mengekstrak `psk` (KataSandi), `key-mgmt` (Otorisasi), `pairwise` (enkripsi), dan `band` Bidang. Menampilkan `[Permission Denied]` Catatan Jika Akses Root Diperlukan.
 
 #### macOS : `get_profiles_macos()` / `get_profile_details_macos()`
 
