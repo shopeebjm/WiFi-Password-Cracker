@@ -105,29 +105,29 @@ Reads `.nmconnection` files from `/etc/NetworkManager/system-connections/`. Extr
 
 Uses `networksetup -listpreferredwirelessnetworks en0` to list profiles and `security find-generic-password -wa <name>` to retrieve passwords from the system Keychain.
 
-### Unified Scanner
+### Pemindai Terpadu
 
 ```python
 def scan_all_profiles():
 ```
 
-Calls the appropriate platform-specific parser and returns a unified list of profile dictionaries with the keys: `name`, `password`, `auth`, `encryption`, `band`.
+Memanggil Parser Khsusus Platform Yang Sesuai Dan Mengembalikan Daftar Kamus Profil Terpadu Dengan Kunci: `name`, `password`, `auth`, `encryption`, `band`.
 
-### Display
+### Menampilkan
 
 ```python
 def print_table(profiles):
 ```
 
-Prints results as a formatted, colorized table. Rows are shown in **green** if a password is found, and **red** if no password is stored.
+Menampilkan Hasil Sebagai Tabel Yang Diformat Dan Diberi Warna.Baris Ditampilkan Dengan Warna **hijau** Jika Kata Sandi Ditemukan,Dan **merah** Jika Tidak Ada Kata Sandi Yang Tersimpan .
 
-### Filter / Search
+### Filter / Pencarian
 
 ```python
 def filter_profiles(profiles, keyword=None, with_password_only=False):
 ```
 
-Filters the profile list by a case-insensitive name keyword and/or by password presence. Used by menu options `[2]` and `[3]`.
+Memfilter Daftar Profil Berdasarkan Kata Kunci Nama (Tidak Peka Huruf Besar/Kecil). Dan/atau berdasarkan Keberadaan Kata Sandi,Digunakan Oleh Opsi Menu`[2]` and `[3]`.
 
 ### Ekspor
 
