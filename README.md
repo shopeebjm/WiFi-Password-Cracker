@@ -105,7 +105,7 @@ Reads `.nmconnection` files from `/etc/NetworkManager/system-connections/`. Extr
 
 Uses `networksetup -listpreferredwirelessnetworks en0` to list profiles and `security find-generic-password -wa <name>` to retrieve passwords from the system Keychain.
 
-### Pemindai Terpadu
+## Pemindai Terpadu
 
 ```python
 def scan_all_profiles():
@@ -113,7 +113,7 @@ def scan_all_profiles():
 
 Memanggil Parser Khsusus Platform Yang Sesuai Dan Mengembalikan Daftar Kamus Profil Terpadu Dengan Kunci: `name`, `password`, `auth`, `encryption`, `band`.
 
-### Menampilkan
+## Menampilkan
 
 ```python
 def print_table(profiles):
