@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/17c844bd-9ad8-480c-8732-84460bb0a31e" width="500" />
 <h1 align="center">WiFi Security & Router Diagnostics v2.0.0</h1>
 <h3 align="center"> 
-- Versi Terbaru dari Perangkat Lunak Pembobol Kata Sandi WiFi -</h3>
+ Versi Terbaru dari Perangkat Lunak Pembobol Kata Sandi WiFi -</h3>
    
 </p>
 
