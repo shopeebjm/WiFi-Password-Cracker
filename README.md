@@ -10,24 +10,23 @@ WiFi Security & Router Diagnostics adalah skrip Python lintas platform yang meng
 
 ## About
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/shabir-mp/Image-Background-Remover/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/shopeebjm/Image-Background-Remover/blob/main/LICENSE)
 
-- **Developer:** Shabir Mahfudz Prahono - @shabir-mp
+- **Developer:** shopeebjm
 - **Application creation date:** 18 June 2024
-- **Last updated:** 17 March 2026
+- **Last updated:** 17 Maret 2026
 
-## Features
-
-- Cross-platform support: Windows, Linux, and macOS.
-- Retrieves all saved WiFi profiles on the device.
-- Displays WiFi name, password, authentication type, encryption cipher, and radio band.
-- Colorized terminal output — green for profiles with a password, red for those without.
-- Interactive menu with options to browse, search, filter, and export data.
-- Search profiles by name keyword.
-- Filter to show only profiles that have a saved password.
-- Export results to CSV, TXT, or JSON (auto-timestamped filenames).
-- Re-scan profiles without restarting the program.
-- Auto-installs `colorama` if not already present.
+## Fitur
+- Dukungan lintas platform: Windows, Linux, dan macOS.
+- Mengambil semua profil WiFi yang tersimpan di perangkat.
+- Menampilkan nama WiFi, kata sandi, jenis otentikasi, algoritma enkripsi, dan pita frekuensi radio.
+- Output terminal berwarna — hijau untuk profil dengan kata sandi, merah untuk profil tanpa kata sandi.
+- Menu interaktif dengan opsi untuk menelusuri, mencari, memfilter, dan mengekspor data.
+- Cari profil berdasarkan kata kunci nama.
+- Filter untuk hanya menampilkan profil yang memiliki kata sandi tersimpan.
+- Ekspor hasil ke CSV, TXT, atau JSON (nama file dengan stempel waktu otomatis).
+- Pindai ulang profil tanpa memulai ulang program.
+- Akan terinstal secara otomatis coloramajika belum ada.
 
 ## Requirements
 
