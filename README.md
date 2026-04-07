@@ -69,9 +69,9 @@ WiFi Security & Router Diagnostics adalah skrip Python lintas platform yang meng
    | `[5]` Pindai Ulang | Perbarui Daftar Profil Dari Sistem |
    | `[0]` Keluar | Keluar Dari program |
 
-## Code Explanation
+## Penjelasan Kode
 
-### Dependency Check
+### Pengecekan Ketergantungan
 
 ```python
 def check_dependencies():
@@ -81,7 +81,7 @@ def check_dependencies():
         subprocess.check_call([sys.executable, "-m", "pip", "install", "colorama"])
 ```
 
-Automatically installs `colorama` if it is not found, so no manual `pip install` is needed before running the script.
+Secara Otomatis `colorama` Jika Tidak Ditemukan,Jika Tidak `pip install` Perlu Manual Sebelum Menjalankan Script.
 
 ### Platform Detection
 
