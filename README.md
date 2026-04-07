@@ -60,14 +60,14 @@ WiFi Security & Router Diagnostics adalah skrip Python lintas platform yang meng
 4. Baca Dan Setujui Syarat Dan Ketentuan Dengan Mengetik `Y`.
 5. Gunakan Menu Interaktif Untuk Bernavigasi :
 
-   | Option | Description |
+   | Pilihan | Keterangan |
    |--------|-------------|
-   | `[1]` Show All Profiles | Display all scanned WiFi profiles |
-   | `[2]` Search by Name | Filter profiles by a keyword |
-   | `[3]` Show Only With Password | Display only profiles that have a saved password |
-   | `[4]` Export Results | Save current view to CSV, TXT, or JSON |
-   | `[5]` Re-Scan | Refresh the profile list from the system |
-   | `[0]` Exit | Exit the program |
+   | `[1]` Tampilkan Semua Profil | Tampilkan Semua Profil WiFi Yang Dipindai |
+   | `[2]` Cari Berdasarkan Nama | Saring Profil Berdasarkan Kata Kunci |
+   | `[3]` Hanya Tampilkan Dengan Kata Sandi | Tampilkan Hanya Profil Yang Memiliki Kata Sandi Yang Tersimpan |
+   | `[4]` Ekspor Hasil | Simpan Tampilan Saat Ini Ke CSV, TXT, or JSON |
+   | `[5]` Pindai Ulang | Perbarui Daftar Profil Dari Sistem |
+   | `[0]` Keluar | Keluar Dari program |
 
 ## Code Explanation
 
