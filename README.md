@@ -1,11 +1,12 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/17c844bd-9ad8-480c-8732-84460bb0a31e" width="500" />
 <h1 align="center">WiFi Security & Router Diagnostics v2.0.0</h1>
-<h3 align="center"> - Updated Version of WiFi Password Cracker -</h3>
+<h3 align="center"> 
+- Versi Terbaru dari Perangkat Lunak Pembobol Kata Sandi WiFi -</h3>
    
 </p>
 
-WiFi Security & Router Diagnostics is a cross-platform Python script that retrieves saved WiFi profiles and their details including passwords, authentication type, encryption, and radio band on Windows, Linux, and macOS. It uses platform-native tools (`netsh` on Windows, NetworkManager on Linux, and Keychain on macOS) to access and display this information. The script includes an interactive menu for filtering, searching, and exporting results, as well as user consent via Terms and Conditions before any data is retrieved.
+WiFi Security & Router Diagnostics adalah skrip Python lintas platform yang mengambil profil WiFi yang tersimpan dan detailnya termasuk kata sandi, jenis otentikasi, enkripsi, dan pita frekuensi radio pada Windows, Linux, dan macOS. Skrip ini menggunakan alat-alat asli platform (`netsh` pada Windows, NetworkManager pada Linux, dan Keychain pada macOS) untuk mengakses dan menampilkan informasi ini. Skrip ini menyertakan menu interaktif untuk memfilter, mencari, dan mengekspor hasil, serta persetujuan pengguna melalui Syarat dan Ketentuan sebelum data apa pun diambil.
 
 ## About
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
