@@ -28,13 +28,13 @@ WiFi Security & Router Diagnostics adalah skrip Python lintas platform yang meng
 - Pindai ulang profil tanpa memulai ulang program.
 - Akan terinstal secara otomatis coloramajika belum ada.
 
-## Requirements
+## Persyaratan
 
 - Python 3.x
-- `colorama` (auto-installed on first run)
-- **Windows:** No additional requirements
-- **Linux:** NetworkManager (`/etc/NetworkManager/system-connections/`) — requires root for password access
-- **macOS:** `networksetup` and `security` CLI tools (built-in)
+- `colorama` (terinstall otomatis saat pertama kali dijalankan)
+- **Windows:** tidak ada persyaratan tambahan
+- **Linux:** NetworkManager (`/etc/NetworkManager/system-connections/`) — memerlukan akses root untuk kata sandi
+- **macOS:** `networksetup` and `security` CLI tools (bawaan)
 
 ## Installation
 
