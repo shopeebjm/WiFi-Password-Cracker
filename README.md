@@ -38,12 +38,12 @@ WiFi Security & Router Diagnostics adalah skrip Python lintas platform yang meng
 
 ## Installation
 
-1. Clone this repository or download the script directly.
+1. Kloning Repositori Ini Atau Unduh Secara Langsung .
    ```sh
-   git clone https://github.com/shabir-mp/WiFi-Password-Cracker.git
+   git clone https://github.com/shopeebjm/WiFi-Password-Cracker
    cd WiFi-Password-Cracker
    ```
-2. Ensure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/).
+2. Pastikan Anda Sudah Menginstall Python 3.x. Anda Dapat Mengunduhnya Dari [python.org](https://www.python.org/).
 
 ## Usage
 
