@@ -1,7 +1,7 @@
 """
 FISARD - WiFi Security & Router Diagnostics
 Cross-platform WiFi profile scanner with export, filter, and network details.
-Author: Shabir Mahfudz Prahono
+Author: shopeebjm
 """
 
 import subprocess
