@@ -141,13 +141,13 @@ Exports the current profile view to a file. The filename is auto-generated with 
 - **TXT** — human-readable, one block per profile
 - **JSON** — structured data, array of profile objects
 
-### Interactive Menu
+### Menu Interaktif
 
 ```python
 def show_menu():
 ```
 
-Displays a box-styled menu using Unicode border characters. Returns the user's choice as a string for the main loop to process.
+Menampilkan menu bergaya kotak menggunakan karakter batas Unicode. Mengembalikan pilihan pengguna sebagai string untuk diproses oleh loop utama.
 
 ## Disclaimer
 
@@ -158,4 +158,3 @@ Skrip ini ditujukan hanya untuk tujuan pendidikan dan penggunaan pribadi. Akses 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 -----------------------------------------------------------------------------------------
-![Github Footer](https://github.com/shopeebjm/Kereta-Api-Indonesia-Booking-System/assets/133546000/c1833fe4-f470-494f-99e7-d583421625be)
