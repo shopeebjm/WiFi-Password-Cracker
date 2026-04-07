@@ -83,13 +83,13 @@ def check_dependencies():
 
 Secara Otomatis `colorama` Jika Tidak Ditemukan,Jika Tidak `pip install` Perlu Manual Sebelum Menjalankan Script.
 
-### Platform Detection
+### Deteksi Platform
 
 ```python
 OS = platform.system()  # "Windows", "Linux", "Darwin"
 ```
 
-Detects the current operating system and routes all profile retrieval functions accordingly.
+Mendeteksi sistem operasi saat ini dan mengarahkan semua fungsi pengambilan profil sesuai dengan sistem tersebut.
 
 ### Platform-Specific Parsers
 
