@@ -1,4 +1,33 @@
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YouTube+@shopee_banjarmasin" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=s+h+o+p+e+e+b+j+m" />
+</p>
+
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+
+<h2 align="center">
+  
+[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
+
+# Persyaratan
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+<h2 align="center">
+
+Unduh Aplikasi Termux Nya Dibawah Ini
+
+👇👇
+
+[![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
+<a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
+</a>
+
+[![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
+
+<p align="center">
 <img src="https://github.com/user-attachments/assets/17c844bd-9ad8-480c-8732-84460bb0a31e" width="500" />
 <h1 align="center">WiFi Security & Router Diagnostics v2.0.0</h1>
 <h3 align="center"> 
@@ -159,7 +188,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 -----------------------------------------------------------------------------------------
 
-# Jangan Lupa Like Share Comment And Subscribe
+# Social Media
 
 <h2 align="center">
 
@@ -189,3 +218,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 </h2>
 </div>
 
+## Follow Me :
+
+[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
+<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://instagram.com/shopee_banjarmasin)
+[![Blog](https://img.shields.io/badge/Website-Visit-yellow?style=for-the-badge&logo=blogger)](https://kiplymacho.blogspot.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Like-red?style=for-the-badge&logo=facebook)](https://facebook.com/shopee.bjm)
+[![HalamanFacebook](https://img.shields.io/badge/Halaman-Facebook-sky?style=for-the-badge&logo=facebook)](https://facebook.com/httpcustomkiplymacho)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285751032225)
+[![Telegram](https://img.shields.io/badge/Forum-Diskusi-blue?style=for-the-badge&logo=forum)](https://t.me/shopeebjm)
+<a href="https://youtube.com/@shopee_banjarmasin"><img title="YouTube" src="https://img.shields.io/badge/YouTube-@Shopee_Banjarmasin-red?style=for-the-badge&logo=Youtube"></a>
